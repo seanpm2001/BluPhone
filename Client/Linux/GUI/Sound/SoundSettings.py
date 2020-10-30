@@ -31,6 +31,21 @@ print ("42 bit mode [Unable to open]")
 print ("48 bit mode [Unable to open]")
 print ("54 bit mode [Unable to open]")
 print ("64 bit mode [Unable to open]")
+print ("\nAudio types\n")
+print ("OGG [Unable to open]")
+print ("MP3 [Unable to open]")
+print ("ALAC [Unable to open]")
+print ("FLAC [Unable to open]")
+print ("WAV [Unable to open]")
+print ("MID [Unable to open]")
+print ("MP2 [Unable to open]")
+print ("AIFF [Unable to open]")
+print ("AAC [Unable to open]")
+print ("M4A [Unable to open]")
+print ("Other [Unable to open]")
+print ("\nWaves\n")
+print ("View soundwaves [Unable to open]")
+print ("Hide soundwaves [Unable to open]")
 noMore = input("Press [ENTER] key to exit current tab")
 print ("This window should be closed now")
 """
@@ -38,8 +53,9 @@ I don't know enough about Python yet to make a functional GUI or to make these o
 """
 '''
 File info
-File version: 1 (Friday, October 30th 2020 at 11:00 am)
+File version: 2 (Friday, October 30th 2020 at 11:00 am)
 File type: Python script file (*.py)
-Line count (including blank lines and compiler line): 46
+Line count (including blank lines and compiler line): 62
+V2 info: I forgot to add some stuff in version 1. I have added it in V2.
 '''
 # End of script
