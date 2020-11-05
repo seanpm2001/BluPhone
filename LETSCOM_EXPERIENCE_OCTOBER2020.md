@@ -37,4 +37,54 @@ I continued to use my headphones again today. They have lasted a very long time.
 
 [See November 2020 entries on GitHub](https://github.com/seanpm2001/BluPhone/blob/main/LETSCOM_EXPERIENCE_NOVEMBER2020.md)
 
+[See November 2020 entries locally (experimental, universal link)](LETSCOM_EXPERIENCE_NOVEMBER2020.md)
+
+***
+
+## File history
+
+Version 1 (Friday, October 30th 2020 at 9:41 pm)
+
+> Changes:
+
+> * Started the file
+
+> * Added the October 28th 2020 entry
+
+> * Added the October 29th 2020 entry
+
+> * Added the October 30th 2020 entry
+
+> * Added the spot for the October 31st 2020 entry
+
+> * No other changes in version 1
+
+Version 2 (Wednesday, November 4th 2020 at 6:00 pm)
+
+> Changes:
+
+> * Updated the October 30th 2020 entry
+
+> * Updated the October 31st 2020 entry
+
+> * Added a link to the November data
+
+> * No other changes in version 2
+
+Version 3 (Wednesday, November 4th 2020 at 6:14 pm)
+
+> Changes:
+
+> * Added an experimental universal local link to the November 2020 articles
+
+> * Added a file version history section
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+ 
+> * Coming soon
+
 ***
