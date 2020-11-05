@@ -27,10 +27,14 @@ I used my headphones a little bit before bed. In total, I used my headphones for
 
 I continued to use my headphones today. They are still really nice. I learned that it is possible to wear headphones backwards today. I originally thought you could wear them any way you wanted. I used my headphones for a total of over 16 hours. The quality isn't as good as the Bose headphones I tried for a few days beforehand, but the quality is still pretty good. When I bought these, I chose between a 30 hour battery pair ($55.00) with noise canceling and a 100 hour battery pair with no noise canceling ($20.00)
 
-**More data to be added here**
+I stopped using my headphones for nighttime mobile gaming, as I couldn't balance the music and the ads on Tiny Tower. It was tedious to turn the volume up after every ad and turn it down before every ad. Also, it would pop up every time I took a screenshot during Jewels gameplay. I still intend to try and play Minecraft with headphones at some point.
 
 # October 31st 2020
 
-Entry coming soon
+I continued to use my headphones again today. They have lasted a very long time. Today is my last usage day of the month. They have lasted very well so far. I am still continuing the 100 hour test. So far, the headphones have been used for over 30 hours without charging.
+
+***
+
+[See November 2020 entries on GitHub](https://github.com/seanpm2001/BluPhone/blob/main/LETSCOM_EXPERIENCE_NOVEMBER2020.md)
 
 ***
